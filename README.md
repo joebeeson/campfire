@@ -8,7 +8,7 @@ Provides functionality related to 37signal's [Campfire](http://campfirenow.com/)
 
         $ cd /path/to/your/app/plugins && git clone git://github.com/joebeeson/campfire.git
 
-* Add the helper to your `$components` and configure it there
+* Add the component to your `$components` and configure it there
 
             var $components = array(
                 'Campfire' => array(
